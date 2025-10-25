@@ -41,7 +41,7 @@ Este proyecto demuestra habilidades en:
 - Clonar el repo con este comando:
 ```bash
 git clone https://github.com/wellington3100/inventario_python.git
-
+```
 - Entrar a la carpeta del proyecto:
 - cd inventario-python
 - Ya podes abrir los archivos en un editor de código y ejecutar el programa.
