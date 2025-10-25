@@ -34,19 +34,7 @@ Este proyecto demuestra habilidades en:
 
 ---
 
-## Funcionalidades
-- Agregar nuevos productos al inventario
-- Actualizar datos de productos existentes
-- Eliminar productos
-- Buscar productos por ID o nombre
-- Mostrar inventario completo en consola con formato tabla
-- Alertas de productos con stock bajo (crítico, bajo, agotado)
-- Persistencia de datos en archivo JSON
-- Validaciones de entrada para evitar datos incorrectos
-
----
-
-##Pasos para clonar
+## Pasos para clonar
 - Abrir la terminal o CMD.
 - Ir a la carpeta donde queras guardar el proyecto, por ejemplo:
 - cd C:\Users\Usuario\Proyectos
@@ -56,6 +44,7 @@ Este proyecto demuestra habilidades en:
 - cd inventario-python
 - Ya podes abrir los archivos en un editor de código y ejecutar el programa.
 
+---
   Autor:
 Wéllington Álvarez
 
