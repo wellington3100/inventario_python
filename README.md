@@ -56,6 +56,8 @@ Este proyecto demuestra habilidades en:
 - cd inventario-python
 - Ya podes abrir los archivos en un editor de código y ejecutar el programa.
 
+  Autor:
+Wéllington Álvarez
 
 
 
