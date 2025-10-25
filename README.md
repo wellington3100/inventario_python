@@ -39,7 +39,7 @@ Este proyecto demuestra habilidades en:
 - Ir a la carpeta donde queras guardar el proyecto, por ejemplo:
 - cd C:\Users\Usuario\Proyectos
 - Clonar el repo con este comando:
-'''bash
+```bash
 git clone https://github.com/wellington3100/inventario_python.git
 
 - Entrar a la carpeta del proyecto:
