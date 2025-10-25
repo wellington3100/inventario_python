@@ -46,11 +46,15 @@ Este proyecto demuestra habilidades en:
 
 ---
 
-## Instalación y ejecución
-1. Clonar el repositorio:
-```bash
-#git clone https://github.com/wellington3100/inventario-python.git#
-
+##Pasos para clonar
+- Abrir la terminal o CMD.
+- Ir a la carpeta donde queras guardar el proyecto, por ejemplo:
+- cd C:\Users\Usuario\Proyectos
+- Clonar el repo con este comando:
+- git clone https://github.com/wellington3100/inventario_python.git
+- Entrar a la carpeta del proyecto:
+- cd inventario-python
+- Ya podes abrir los archivos en un editor de código y ejecutar el programa.
 
 
 
