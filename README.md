@@ -62,6 +62,7 @@ Este proyecto fue creado con fines educativos y de práctica, enfocado en fortal
 
 ## Estado del proyecto
   Funcional
+  
   En mejora continua
 
 ---
@@ -69,5 +70,7 @@ Este proyecto fue creado con fines educativos y de práctica, enfocado en fortal
 # Autor
 
 Wéllington Álvarez
+
  Estudiante de Ingeniería en Sistemas y Desarrollo de Software
+ 
  GitHub: https://github.com/wellington3100
