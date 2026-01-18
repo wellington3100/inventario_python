@@ -38,16 +38,6 @@ Este proyecto fue creado con fines educativos y de práctica, enfocado en fortal
 
 ---
 
-##  Estructura del proyecto
-
-inventario_python/
-│
-├── main.py # Punto de entrada del programa
-├── inventario.py # Lógica del sistema de inventario
-└── README.md
-
----
-
 ##  Cómo ejecutar el proyecto
 
 ### Requisitos
