@@ -60,13 +60,6 @@ Este proyecto fue creado con fines educativos y de práctica, enfocado en fortal
 
 ---
 
-## Estado del proyecto
-  Funcional
-  
-  En mejora continua
-
----
-
 # Autor
 
 Wéllington Álvarez
