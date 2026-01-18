@@ -1,6 +1,6 @@
-# 📦 Sistema de Inventario en Python
+#  Sistema de Inventario en Python
 
-## 📝 Descripción
+##  Descripción
 Sistema de inventario desarrollado en **Python** que permite gestionar productos desde consola.  
 El proyecto simula un caso real de uso administrativo, implementando operaciones básicas como agregar, editar, eliminar y listar productos, con una lógica clara y estructurada.
 
@@ -8,18 +8,18 @@ Este proyecto fue creado con fines educativos y de práctica, enfocado en fortal
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
-- 📌 Agregar productos al inventario
-- ✏️ Editar productos existentes
-- 🗑️ Eliminar productos
-- 📋 Listar todos los productos
-- ✅ Validación básica de entradas
-- 🔄 Menú interactivo por consola
+-  Agregar productos al inventario
+-  Editar productos existentes
+-  Eliminar productos
+-  Listar todos los productos
+-  Validación básica de entradas
+-  Menú interactivo por consola
 
 ---
 
-## 🧠 Conceptos aplicados
+##  Conceptos aplicados
 
 - Lógica de programación
 - Estructuras de datos (listas y diccionarios)
@@ -30,7 +30,7 @@ Este proyecto fue creado con fines educativos y de práctica, enfocado en fortal
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - **Lenguaje:** Python  
 - **Entorno:** Consola  
@@ -38,7 +38,7 @@ Este proyecto fue creado con fines educativos y de práctica, enfocado en fortal
 
 ---
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 inventario_python/
 │
@@ -48,7 +48,7 @@ inventario_python/
 
 ---
 
-## ▶️ Cómo ejecutar el proyecto
+##  Cómo ejecutar el proyecto
 
 ### Requisitos
 - Python 3.x instalado
@@ -79,5 +79,5 @@ inventario_python/
 # Autor
 
 Wéllington Álvarez
-🎓 Estudiante de Ingeniería en Sistemas y Desarrollo de Software
-🔗 GitHub: https://github.com/wellington3100
+ Estudiante de Ingeniería en Sistemas y Desarrollo de Software
+ GitHub: https://github.com/wellington3100
